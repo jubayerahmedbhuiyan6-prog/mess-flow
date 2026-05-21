@@ -1,0 +1,6 @@
+{
+  "name": "Mess Flow",
+  "description": "An enterprise-grade, deeply interactive bilingual (Bangla + English) SaaS Web Application for mess and hostel management, complete with Multi-Step Onboarding, Duty Scheduler, To-Let Finder, and receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
